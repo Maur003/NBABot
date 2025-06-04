@@ -87,7 +87,7 @@ export const faqCorpus = {
       "knicks",
     ],
     response:
-      "🏀 **Equipos NBA** \n\n🏆 **Equipos con más títulos:**\n• Boston Celtics: 18 campeonatos\n• Los Angeles Lakers: 17 campeonatos\n• Golden State Warriors: 7 campeonatos\n• Chicago Bulls: 6 campeonatos\n\n📍 **30 equipos actualmente:**\n• 15 en la Conferencia Este\n• 15 en la Conferencia Oeste",
+      "🏀 **Equipos NBA** \n\n🏆 **Equipos con más títulos:**\n• Boston Celtics: 18 campeonatos\n• Los Angeles Lakers: 17 campeonatos\n• Golden State Warriors: 7 campeonatos\n• Chicago Bulls: 6 campeonatos\n\n📍 **30 equipos actualmente:**\n• 15 en la Conferencia Este\n• 15 en la Conferencia Oeste\n ¿Te interesa algún otra área?\n\n Intenta ¿Cuantos anillos tienen los cavs?",
   },
 
   greeting: {

@@ -7,6 +7,7 @@ export const welcomeMessage = `🏀 **¡Bienvenido al Bot de la NBA!** 🏀
 • "Records de la NBA"
 • "¿Cuántos equipos hay en la NBA?"
 • "Títulos de los Lakers"
+• "Equipos de la NBA"
 
 🔎 Estoy aquí para ayudarte a explorar la historia de la NBA.`;
 
